@@ -57,11 +57,14 @@ header .description {
   box-shadow: 0 0 0.25rem rgba(0, 0, 0, 0.5);
   background-color: #bf0128;
 }
-.links .link .title {
+.links .link > span {
+  padding-right: 3rem;
+}
+.links .link > .title {
   font-size: 1.25rem;
   font-weight: 900;
 }
-.links .link .description {
+.links .link > .description {
   font-weight: 400;
 }
 .links .link svg,
