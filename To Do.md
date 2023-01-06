@@ -1,15 +1,4 @@
-* Assign Domain 
 * Move to Github
-* Fade in and other subtle effects
-* Better photo
+* Assign Domain
 ---
-* Google Analytics
----
-* Compile styling
-* Favicon
-* Links with icon, title, description
-* Custom Icons
-* Animations
-* Better grid/responsiveness
-* Font update
-* General style updates
+* Set up Analytics (https://plausible.io/docs/self-hosting)
