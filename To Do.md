@@ -1,7 +1,7 @@
-* Better photo
-* Fade in and other subtle effects
-* Move to Github
 * Assign Domain 
+* Move to Github
+* Fade in and other subtle effects
+* Better photo
 ---
 * Google Analytics
 ---
